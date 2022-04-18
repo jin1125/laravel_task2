@@ -52,7 +52,7 @@
                         <br>
 
                         <input class="btn btn-info" type="submit" value="登録する">
-                        </form>
+                    </form>
                 </div>
             </div>
         </div>
